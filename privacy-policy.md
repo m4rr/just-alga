@@ -9,7 +9,7 @@ The 'JUST ALGA' app ("we", "our", or "us") is committed to protecting the privac
 We do **not** collect, store, or share any personal data from users of any age, including children under the age of 13.  
 - No name, email address, location, or other identifiable information is collected.  
 - We do not use any third-party analytics or advertising services.  
-- No data is transmitted off the device.
+- No personal or identifiable data is transmitted off the device.
 
 ### 2. **No Third-Party Access**
 
